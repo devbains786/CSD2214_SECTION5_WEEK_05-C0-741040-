@@ -11,8 +11,8 @@ function arrays() {
     markers = pens;
     console.log(markers);
 
-    var i;
-    for (i = 0; i < markers.length; i++) {
+    var j;
+    for (j = 0; j < markers.length; j++) {
         alert(markers[i]);
 
     }
