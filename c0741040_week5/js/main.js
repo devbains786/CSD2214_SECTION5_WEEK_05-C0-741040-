@@ -13,7 +13,7 @@ function arrays() {
 
     var j;
     for (j = 0; j < markers.length; j++) {
-        alert(markers[i]);
+        alert(markers[j]);
 
     }
     alert("length of array is :"+ markers.length);
